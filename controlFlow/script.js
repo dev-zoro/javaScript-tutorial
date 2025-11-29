@@ -58,7 +58,7 @@
 // let user = prompt("Enter your choice: ");
 user = user.toLocaleLowerCase();
 let choices = ["rock", "scissors", "paper"];
-let index = Math.floor(Math.random() * (choices.length - 1 - 0 + 1)) + 0;
+let index = Math.floor(Math.random() * (choices.length - 1 - 0 + 1)) + 0; // Math.random() * (max - min + 1) range-> [min, max]
 let computer = choices[index];
 
 function rps(user, computer) {
