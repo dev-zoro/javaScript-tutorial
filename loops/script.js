@@ -35,3 +35,9 @@ do {
 	console.log(i);
 	i++;
 } while (i < 2);
+
+// innerHTML and innerText -> edit the HTML element. edit plain text
+// document.write() -> only use it for test
+// window.alert() / alert() -> print pop-up box. To display data
+// window.print() -> to print the content on the page
+// console.log() -> to print data in the console
