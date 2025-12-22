@@ -1,2 +1,2 @@
 # javaScript-tutorial
-Learning Javascript and documentating the journey.
+Learning JavaScript and documenting the journey.
